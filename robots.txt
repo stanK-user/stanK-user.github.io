@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://smyrnosworld.github.io/sitemap.xml
+Sitemap: https://stanK-user.github.io/sitemap.xml
