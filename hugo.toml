@@ -1,0 +1,4 @@
+baseURL = 'https://stanK-user.github.io/'
+languageCode = 'en-us'
+title = 'stanK-Tones'
+theme = "PaperMod"
