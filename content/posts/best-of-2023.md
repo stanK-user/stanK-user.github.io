@@ -1,5 +1,5 @@
 +++
-date = '2023-12-31T12:27:19-05:00'
+date = '2023-12-12'
 draft = false
 title = 'Best of 2023'
 +++
