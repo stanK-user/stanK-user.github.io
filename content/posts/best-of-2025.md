@@ -5,6 +5,9 @@ title = 'Best of 2025'
 +++
 
 This is my list of albums to check out from 2025!
+
+<!--more-->
+
 Full playlist available here: https://open.spotify.com/playlist/3VbLZ9dFkq3G7quqvrbOXQ?si=AXeGEVE0R9m_GkdJwZM94g
 
 ## Maribou State — *Hallucinating Love*
