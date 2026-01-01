@@ -1,0 +1,32 @@
+/* === STRICT GRID FOR HOMEPAGE POSTS === */
+
+.main .post-list {
+  display: grid !important;
+  grid-template-columns: repeat(auto-fill, minmax(320px, 1fr));
+  gap: 1.5rem;
+  align-items: start;
+}
+
+.post-entry {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  height: auto;
+}
+
+.post-entry .entry-header,
+.post-entry .entry-content,
+.post-entry .entry-footer {
+  width: 100%;
+}
+
+/* Prevent giant cards */
+.post-entry .entry-content {
+  max-height: 9em;
+  overflow: hidden;
+}
+
+/* Hide embeds on homepage */
+.post-entry iframe {
+  display: none;
+}
