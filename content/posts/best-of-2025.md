@@ -5,6 +5,7 @@ title = 'Best of 2025'
 +++
 
 This is my list of albums to check out from 2025!
+Full playlist available here: https://open.spotify.com/playlist/3VbLZ9dFkq3G7quqvrbOXQ?si=AXeGEVE0R9m_GkdJwZM94g
 
 ## Maribou State — *Hallucinating Love*
 
@@ -214,3 +215,21 @@ This is my list of albums to check out from 2025!
 <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/album/1yipZJ7MzmCA56WeIfHX3D?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/album/3QK5hLGy1mKrKVGVlIDqjS?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
+
+---
+
+## Robert Finley — *Hallelujah! Don't Let The Devil Fool Ya*
+
+
+### 🎧 Listen
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/album/0dZ5Jt3zP4gqbrlOLBSpwT?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
+
+---
+
+## Snocaps — *Snocaps*
+
+
+### 🎧 Listen
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/album/1fevi1JMVt1PVIMh5Z80ad?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
