@@ -3,6 +3,9 @@ languageCode = 'en-us'
 title = 'stanK-Tones'
 theme = "PaperMod"
 
+[params]
+disableSpecial1stPost = true
+
 [markup]
   [markup.goldmark]
     [markup.goldmark.renderer]
