@@ -1,5 +1,5 @@
 +++
-date = '2026-01-22'
+date = '2026-01-01'
 draft = false
 title = 'Forgotten Favorites of 2025'
 +++
