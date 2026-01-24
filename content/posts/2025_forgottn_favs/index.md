@@ -42,12 +42,25 @@ How has this gentleman escaped my grasp for so long! I absolutly adore English r
 
 ---
 
-![nfscd](nfscd.jpg)
+![nfscd](nfscd.jpeg)
+
+These are some January releases that have caught my eye!
 
 ---
 
 ## Westside Cowboy — *So Much Country 'Till We Get There*
 
+This is a great EP and a band I've been keeping my eye on. With a opening spot for Geese this year i expect this bands debut album to both be great and a big deal. Look out for them in the next 18 month or so!
 
 ### 🎧 Listen
 <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/album/4MuiAPVifpJvdNQIckM9uo?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
+
+---
+
+## Christian Löffler — *Until We Meet Again*
+
+I've been a Christain Löffler fan for a long time now. If you aren't familer with his work go ahead and pick anything hes worked on he is  wildly consistant artist. This new album is a very spacious addition to his discography with a lot of vocal support from Swedish artist Adna.
+
+### 🎧 Listen
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/album/0BHheZxTmxC2fZh6mbCVx2?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
